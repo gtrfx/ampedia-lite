@@ -19,8 +19,8 @@ TBD
 ## Sound Demo
 A demo clip is available on YouTube demonstrating the sound of this core simulator:
 
-Marshall 1959 SLP: https://youtu.be/kWy7xnjtBL4?si=jrKbJEHTM1jpUbPn     
-Marshall JMP-800 2203: https://youtu.be/YN9nAcvoObw?si=cwO0VjDRZitwc7aS
+- Marshall 1959 SLP: https://youtu.be/kWy7xnjtBL4
+- Marshall JMP-800 2203: https://youtu.be/YN9nAcvoObw
 
 ## Notes
 This version excludes oversampling, anti-aliasing filters, or detailed cabinet/mic simulation. It is intended for educational and prototyping use.
